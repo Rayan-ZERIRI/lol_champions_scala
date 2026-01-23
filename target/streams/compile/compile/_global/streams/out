@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E040] Syntax Error: C:\Users\caelu\Desktop\Programming_Scala\PROJET\src\main\scala\DataLoader.scala:7:0 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m7 |[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0man identifier expected, but '}' found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: C:\Users\caelu\Desktop\Programming_Scala\PROJET\src\main\scala\DataLoader.scala:2:16 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m2 |[0m[33mimport[0m io.circe.parser._[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m     value parser is not a member of io.circe - did you mean circe.cursor?[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
