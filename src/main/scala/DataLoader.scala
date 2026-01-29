@@ -1,6 +1,4 @@
 import io.circe._
-
-import io.circe._
 import io.circe.generic.auto._
 import io.circe.parser._
 import scala.io.Source

@@ -1,7 +1,7 @@
 case class Champion(
   id : Int,
   name : String,
-  role: Option[String],
+  role: String,
   difficulty: Int,
   releaseYear: Int,
   pickRate: Double,
@@ -13,6 +13,10 @@ case class Champion(
   avgAssists: Double,
   avgGold: Int,
   avgDamage: Int,
-  tier: Option[String],
-  archetype: Option[String]
-)
+  tier: String,
+  archetype: String
+){
+  def calculateKDA : Double = {
+    (avgKills + avgAssists) / avgDeaths
+  }
+}
