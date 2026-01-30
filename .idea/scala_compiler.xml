@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="PROJET" />
+    <profile name="sbt 1" modules="PROJET,lol_champions_scala_935" />
   </component>
 </project>

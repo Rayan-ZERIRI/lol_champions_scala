@@ -1,21 +1,73 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\caelu\Desktop\Programming_Scala\PROJET\target\scala-3.3.7\projet_3-0.1.0-SNAPSHOT.jar ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Champion$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\caelu\Desktop\Programming_Scala\PROJET\target\scala-3.3.7\classes\Champion$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Champion.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\caelu\Desktop\Programming_Scala\PROJET\target\scala-3.3.7\classes\Champion.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Champion.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\caelu\Desktop\Programming_Scala\PROJET\target\scala-3.3.7\classes\Champion.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DataLoader$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\caelu\Desktop\Programming_Scala\PROJET\target\scala-3.3.7\classes\DataLoader$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DataLoader.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\caelu\Desktop\Programming_Scala\PROJET\target\scala-3.3.7\classes\DataLoader.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DataLoader.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\caelu\Desktop\Programming_Scala\PROJET\target\scala-3.3.7\classes\DataLoader.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\caelu\Desktop\Programming_Scala\PROJET\target\scala-3.3.7\classes\Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\caelu\Desktop\Programming_Scala\PROJET\target\scala-3.3.7\classes\Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\caelu\Desktop\Programming_Scala\PROJET\target\scala-3.3.7\classes\Main.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[debug] Packaging D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\projet_3-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	Champion$.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\Champion$.class
+[debug] 	Champion.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\Champion.class
+[debug] 	Champion.tasty
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\Champion.tasty
+[debug] 	ChampionStats$.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\ChampionStats$.class
+[debug] 	ChampionStats.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\ChampionStats.class
+[debug] 	ChampionStats.tasty
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\ChampionStats.tasty
+[debug] 	DataManager$$anon$1.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\DataManager$$anon$1.class
+[debug] 	DataManager$.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\DataManager$.class
+[debug] 	DataManager$CleanResult$.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\DataManager$CleanResult$.class
+[debug] 	DataManager$CleanResult.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\DataManager$CleanResult.class
+[debug] 	DataManager$LoadResult$.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\DataManager$LoadResult$.class
+[debug] 	DataManager$LoadResult.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\DataManager$LoadResult.class
+[debug] 	DataManager$ProcessResult$.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\DataManager$ProcessResult$.class
+[debug] 	DataManager$ProcessResult.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\DataManager$ProcessResult.class
+[debug] 	DataManager.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\DataManager.class
+[debug] 	DataManager.tasty
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\DataManager.tasty
+[debug] 	Main$.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\Main$.class
+[debug] 	Main.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\Main.class
+[debug] 	Main.tasty
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\Main.tasty
+[debug] 	OutputGenerator$.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\OutputGenerator$.class
+[debug] 	OutputGenerator$ChampionDifficulty$.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\OutputGenerator$ChampionDifficulty$.class
+[debug] 	OutputGenerator$ChampionDifficulty.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\OutputGenerator$ChampionDifficulty.class
+[debug] 	OutputGenerator$ChampionSummary$.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\OutputGenerator$ChampionSummary$.class
+[debug] 	OutputGenerator$ChampionSummary.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\OutputGenerator$ChampionSummary.class
+[debug] 	OutputGenerator$ChampionWithKDA$.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\OutputGenerator$ChampionWithKDA$.class
+[debug] 	OutputGenerator$ChampionWithKDA.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\OutputGenerator$ChampionWithKDA.class
+[debug] 	OutputGenerator$Results$.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\OutputGenerator$Results$.class
+[debug] 	OutputGenerator$Results.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\OutputGenerator$Results.class
+[debug] 	OutputGenerator$Statistics$.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\OutputGenerator$Statistics$.class
+[debug] 	OutputGenerator$Statistics.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\OutputGenerator$Statistics.class
+[debug] 	OutputGenerator.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\OutputGenerator.class
+[debug] 	OutputGenerator.tasty
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\OutputGenerator.tasty
+[debug] 	Validator$.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\Validator$.class
+[debug] 	Validator.class
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\Validator.class
+[debug] 	Validator.tasty
+[debug] 	  D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes\Validator.tasty
+[debug] Done packaging.

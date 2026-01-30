@@ -1,41 +1,179 @@
-[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\caelu\Desktop\Programming_Scala\PROJET\target\scala-3.3.7\classes.bak[0m
-[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DataLoader.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Champion$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DataLoader$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Champion.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DataLoader.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Champion$.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DataLoader$.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Champion.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DataLoader.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Champion$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DataLoader$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Champion.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DataLoader.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Champion$.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DataLoader$.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Champion.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DataLoader.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Champion$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DataLoader$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Champion.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DataLoader.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Champion$.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	DataLoader$.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Champion.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\caelu\Desktop\Programming_Scala\PROJET\target\scala-3.3.7\classes.bak[0m
+[debug] Created transactional ClassFileManager with tempDir = D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes.bak
+[debug] About to delete class files:
+[debug] 	DataManager$LoadResult.class
+[debug] 	ChampionStats$.class
+[debug] 	DataManager$CleanResult$.class
+[debug] 	OutputGenerator$Results.class
+[debug] 	Main.class
+[debug] 	DataManager$$anon$1.class
+[debug] 	DataManager$.class
+[debug] 	OutputGenerator$ChampionSummary$.class
+[debug] 	OutputGenerator$ChampionDifficulty.class
+[debug] 	DataManager$ProcessResult.class
+[debug] 	DataManager$CleanResult.class
+[debug] 	OutputGenerator$ChampionSummary.class
+[debug] 	OutputGenerator$.class
+[debug] 	DataManager$LoadResult$.class
+[debug] 	OutputGenerator$ChampionDifficulty$.class
+[debug] 	OutputGenerator.class
+[debug] 	OutputGenerator$Statistics.class
+[debug] 	Champion$.class
+[debug] 	ChampionStats.class
+[debug] 	DataManager.class
+[debug] 	OutputGenerator$ChampionWithKDA$.class
+[debug] 	OutputGenerator$Statistics$.class
+[debug] 	DataManager$ProcessResult$.class
+[debug] 	OutputGenerator$ChampionWithKDA.class
+[debug] 	Validator$.class
+[debug] 	Champion.class
+[debug] 	Validator.class
+[debug] 	OutputGenerator$Results$.class
+[debug] 	Main$.class
+[debug] 	DataManager$LoadResult.tasty
+[debug] 	ChampionStats$.tasty
+[debug] 	DataManager$CleanResult$.tasty
+[debug] 	OutputGenerator$Results.tasty
+[debug] 	Main.tasty
+[debug] 	DataManager$$anon$1.tasty
+[debug] 	DataManager$.tasty
+[debug] 	OutputGenerator$ChampionSummary$.tasty
+[debug] 	OutputGenerator$ChampionDifficulty.tasty
+[debug] 	DataManager$ProcessResult.tasty
+[debug] 	DataManager$CleanResult.tasty
+[debug] 	OutputGenerator$ChampionSummary.tasty
+[debug] 	OutputGenerator$.tasty
+[debug] 	DataManager$LoadResult$.tasty
+[debug] 	OutputGenerator$ChampionDifficulty$.tasty
+[debug] 	OutputGenerator.tasty
+[debug] 	OutputGenerator$Statistics.tasty
+[debug] 	Champion$.tasty
+[debug] 	ChampionStats.tasty
+[debug] 	DataManager.tasty
+[debug] 	OutputGenerator$ChampionWithKDA$.tasty
+[debug] 	OutputGenerator$Statistics$.tasty
+[debug] 	DataManager$ProcessResult$.tasty
+[debug] 	OutputGenerator$ChampionWithKDA.tasty
+[debug] 	Validator$.tasty
+[debug] 	Champion.tasty
+[debug] 	Validator.tasty
+[debug] 	OutputGenerator$Results$.tasty
+[debug] 	Main$.tasty
+[debug] We backup class files:
+[debug] 	DataManager$LoadResult.class
+[debug] 	ChampionStats$.class
+[debug] 	DataManager$CleanResult$.class
+[debug] 	OutputGenerator$Results.class
+[debug] 	Main.class
+[debug] 	DataManager$$anon$1.class
+[debug] 	DataManager$.class
+[debug] 	OutputGenerator$ChampionSummary$.class
+[debug] 	OutputGenerator$ChampionDifficulty.class
+[debug] 	DataManager$ProcessResult.class
+[debug] 	DataManager$CleanResult.class
+[debug] 	OutputGenerator$ChampionSummary.class
+[debug] 	OutputGenerator$.class
+[debug] 	DataManager$LoadResult$.class
+[debug] 	OutputGenerator$ChampionDifficulty$.class
+[debug] 	OutputGenerator.class
+[debug] 	OutputGenerator$Statistics.class
+[debug] 	Champion$.class
+[debug] 	ChampionStats.class
+[debug] 	DataManager.class
+[debug] 	OutputGenerator$ChampionWithKDA$.class
+[debug] 	OutputGenerator$Statistics$.class
+[debug] 	DataManager$ProcessResult$.class
+[debug] 	OutputGenerator$ChampionWithKDA.class
+[debug] 	Validator$.class
+[debug] 	Champion.class
+[debug] 	Validator.class
+[debug] 	OutputGenerator$Results$.class
+[debug] 	Main$.class
+[debug] 	DataManager$LoadResult.tasty
+[debug] 	ChampionStats$.tasty
+[debug] 	DataManager$CleanResult$.tasty
+[debug] 	OutputGenerator$Results.tasty
+[debug] 	Main.tasty
+[debug] 	DataManager$$anon$1.tasty
+[debug] 	DataManager$.tasty
+[debug] 	OutputGenerator$ChampionSummary$.tasty
+[debug] 	OutputGenerator$ChampionDifficulty.tasty
+[debug] 	DataManager$ProcessResult.tasty
+[debug] 	DataManager$CleanResult.tasty
+[debug] 	OutputGenerator$ChampionSummary.tasty
+[debug] 	OutputGenerator$.tasty
+[debug] 	DataManager$LoadResult$.tasty
+[debug] 	OutputGenerator$ChampionDifficulty$.tasty
+[debug] 	OutputGenerator.tasty
+[debug] 	OutputGenerator$Statistics.tasty
+[debug] 	Champion$.tasty
+[debug] 	ChampionStats.tasty
+[debug] 	DataManager.tasty
+[debug] 	OutputGenerator$ChampionWithKDA$.tasty
+[debug] 	OutputGenerator$Statistics$.tasty
+[debug] 	DataManager$ProcessResult$.tasty
+[debug] 	OutputGenerator$ChampionWithKDA.tasty
+[debug] 	Validator$.tasty
+[debug] 	Champion.tasty
+[debug] 	Validator.tasty
+[debug] 	OutputGenerator$Results$.tasty
+[debug] 	Main$.tasty
+[debug] Registering generated classes:
+[debug] 	DataManager$LoadResult.class
+[debug] 	ChampionStats$.class
+[debug] 	DataManager$CleanResult$.class
+[debug] 	OutputGenerator$Results.class
+[debug] 	Main.class
+[debug] 	DataManager$$anon$1.class
+[debug] 	DataManager$.class
+[debug] 	OutputGenerator$ChampionSummary$.class
+[debug] 	OutputGenerator$ChampionDifficulty.class
+[debug] 	DataManager$ProcessResult.class
+[debug] 	DataManager$CleanResult.class
+[debug] 	OutputGenerator$ChampionSummary.class
+[debug] 	OutputGenerator$.class
+[debug] 	DataManager$LoadResult$.class
+[debug] 	OutputGenerator$ChampionDifficulty$.class
+[debug] 	OutputGenerator.class
+[debug] 	OutputGenerator$Statistics.class
+[debug] 	Champion$.class
+[debug] 	ChampionStats.class
+[debug] 	DataManager.class
+[debug] 	OutputGenerator$ChampionWithKDA$.class
+[debug] 	OutputGenerator$Statistics$.class
+[debug] 	DataManager$ProcessResult$.class
+[debug] 	OutputGenerator$ChampionWithKDA.class
+[debug] 	Validator$.class
+[debug] 	Champion.class
+[debug] 	Validator.class
+[debug] 	OutputGenerator$Results$.class
+[debug] 	Main$.class
+[debug] 	DataManager$LoadResult.tasty
+[debug] 	ChampionStats$.tasty
+[debug] 	DataManager$CleanResult$.tasty
+[debug] 	OutputGenerator$Results.tasty
+[debug] 	Main.tasty
+[debug] 	DataManager$$anon$1.tasty
+[debug] 	DataManager$.tasty
+[debug] 	OutputGenerator$ChampionSummary$.tasty
+[debug] 	OutputGenerator$ChampionDifficulty.tasty
+[debug] 	DataManager$ProcessResult.tasty
+[debug] 	DataManager$CleanResult.tasty
+[debug] 	OutputGenerator$ChampionSummary.tasty
+[debug] 	OutputGenerator$.tasty
+[debug] 	DataManager$LoadResult$.tasty
+[debug] 	OutputGenerator$ChampionDifficulty$.tasty
+[debug] 	OutputGenerator.tasty
+[debug] 	OutputGenerator$Statistics.tasty
+[debug] 	Champion$.tasty
+[debug] 	ChampionStats.tasty
+[debug] 	DataManager.tasty
+[debug] 	OutputGenerator$ChampionWithKDA$.tasty
+[debug] 	OutputGenerator$Statistics$.tasty
+[debug] 	DataManager$ProcessResult$.tasty
+[debug] 	OutputGenerator$ChampionWithKDA.tasty
+[debug] 	Validator$.tasty
+[debug] 	Champion.tasty
+[debug] 	Validator.tasty
+[debug] 	OutputGenerator$Results$.tasty
+[debug] 	Main$.tasty
+[debug] Removing the temporary directory used for backing up class files: D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes.bak

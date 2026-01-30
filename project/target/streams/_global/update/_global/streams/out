@@ -1,3 +1,3 @@
-[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
-[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/C:/Users/caelu/Desktop/Programming_Scala/PROJET/project/"), "projet-build")...[0m
-[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/C:/Users/caelu/Desktop/Programming_Scala/PROJET/project/"), "projet-build")[0m
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/D:/I2/SCALA/Rayan_ZERIRI_Romain_REN_BDML2_LOL_SCALA/project/"), "rayan_zeriri_romain_ren_bdml2_lol_scala-build")...
+[debug] Done updating ProjectRef(uri("file:/D:/I2/SCALA/Rayan_ZERIRI_Romain_REN_BDML2_LOL_SCALA/project/"), "rayan_zeriri_romain_ren_bdml2_lol_scala-build")
