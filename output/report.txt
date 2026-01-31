@@ -1,0 +1,143 @@
+===============================================
+  RAPPORT D'ANALYSE - LEAGUE OF LEGENDS
+===============================================
+
+STATISTIQUES DE PARSING
+---------------------------
+- Entrées totales lues      : 12000
+- Entrées valides           : 12000
+- Erreurs de parsing        : 0
+- Doublons supprimés        : 0
+
+⚔️  RÉPARTITION PAR RÔLE
+------------------------
+- Jungle                   : 2400 champions
+- Top                      : 2400 champions
+- Support                  : 2400 champions
+- ADC                      : 2400 champions
+- Mid                      : 2400 champions
+
+🏆 RÉPARTITION PAR TIER
+------------------------
+- S (Excellent)             : 3240 champions
+- A (Très bon )             : 1680 champions
+- B (Bon      )             : 2520 champions
+- C (Moyen    )             : 2040 champions
+- D (Faible   )             : 2520 champions
+
+RÉPARTITION PAR CLASSE
+--------------------------
+- Tank                     : 3360 champions
+- Marksman                 : 2400 champions
+- Mage                     : 2400 champions
+- Fighter                  : 2040 champions
+- Assassin                 : 1320 champions
+- Support                  : 480 champions
+
+TOP 10 - MEILLEUR WIN RATE
+------------------------------
+ 1. Cassiopeia Patch8      : 53,90% (Tier S)
+ 2. Cassiopeia Patch86     : 53,90% (Tier S)
+ 3. Cassiopeia Patch104    : 53,90% (Tier S)
+ 4. Cassiopeia Patch62     : 53,90% (Tier S)
+ 5. Cassiopeia Patch34     : 53,90% (Tier S)
+ 6. Cassiopeia Patch103    : 53,90% (Tier S)
+ 7. Cassiopeia Patch51     : 53,90% (Tier S)
+ 8. Cassiopeia Patch92     : 53,90% (Tier S)
+ 9. Cassiopeia Patch21     : 53,90% (Tier S)
+10. Cassiopeia Patch60     : 53,90% (Tier S)
+
+TOP 10 - PICK RATE
+----------------------
+ 1. Annie Patch39          : 14,80%
+ 2. Annie Patch27          : 14,80%
+ 3. Annie Patch65          : 14,80%
+ 4. Annie Patch109         : 14,80%
+ 5. Annie Patch25          : 14,80%
+ 6. Annie Patch108         : 14,80%
+ 7. Annie Patch54          : 14,80%
+ 8. Annie Patch69          : 14,80%
+ 9. Annie Patch80          : 14,80%
+10. Annie Patch26          : 14,80%
+
+TOP 10 - BAN RATE
+---------------------
+ 1. Diana Patch108         : 44,90%
+ 2. Diana Patch13          : 44,90%
+ 3. Diana Patch28          : 44,90%
+ 4. Diana Patch54          : 44,90%
+ 5. Diana Patch40          : 44,90%
+ 6. Diana Patch119         : 44,90%
+ 7. Diana Patch79          : 44,90%
+ 8. Diana Patch92          : 44,90%
+ 9. Veigar Patch19         : 44,90%
+10. Diana Patch60          : 44,90%
+
+TOP 10 - MEILLEUR KDA
+-------------------------
+ 1. Leona Patch63          : 5,82 KDA (2,5/3,3/16,7)
+ 2. Leona Patch27          : 5,82 KDA (2,5/3,3/16,7)
+ 3. Leona Patch88          : 5,82 KDA (2,5/3,3/16,7)
+ 4. Leona Patch109         : 5,82 KDA (2,5/3,3/16,7)
+ 5. Leona Patch103         : 5,82 KDA (2,5/3,3/16,7)
+ 6. Leona Patch65          : 5,82 KDA (2,5/3,3/16,7)
+ 7. Leona Patch44          : 5,82 KDA (2,5/3,3/16,7)
+ 8. Leona Patch68          : 5,82 KDA (2,5/3,3/16,7)
+ 9. Leona Patch84          : 5,82 KDA (2,5/3,3/16,7)
+10. Leona Patch18          : 5,82 KDA (2,5/3,3/16,7)
+
+MOYENNES PAR RÔLE
+---------------------
+WIN RATE MOYEN :
+- Jungle                   : 50,88%
+- Mid                      : 50,41%
+- Top                      : 50,23%
+- Support                  : 50,04%
+- ADC                      : 49,92%
+
+DIFFICULTÉ MOYENNE :
+- ADC                      : 6,20/10
+- Support                  : 6,15/10
+- Top                      : 6,05/10
+- Mid                      : 5,35/10
+- Jungle                   : 5,15/10
+
+ÉCONOMIE MOYENNE PAR RÔLE
+-----------------------------
+- ADC                      : 12416 or
+- Mid                      : 11545 or
+- Top                      : 11368 or
+- Jungle                   : 10691 or
+- Support                  : 8818 or
+
+DÉGÂTS MOYENS PAR RÔLE
+--------------------------
+- ADC                      : 18309
+- Mid                      : 16796
+- Top                      : 14889
+- Jungle                   : 13373
+- Support                  : 9388
+
+CHAMPIONS LES PLUS DIFFICILES
+----------------------------------
+ 1. Kalista                : 10/10
+ 2. Janna Patch53          : 10/10
+ 3. Janna Patch60          : 10/10
+ 4. Fiora Patch73          : 10/10
+ 5. Lulu Patch41           : 10/10
+ 6. Rakan Patch20          : 10/10
+ 7. Kalista Patch54        : 10/10
+ 8. Aphelios Patch55       : 10/10
+ 9. Rakan Patch40          : 10/10
+10. Jinx Patch61           : 10/10
+
+ CLASSE LA PLUS POPULAIRE
+----------------------------
+- Tank                     : 3360 champions (28,0%)
+
+  PERFORMANCE
+---------------
+- Temps de traitement       : 0,867 secondes
+- Entrées/seconde           : 13841
+
+===============================================

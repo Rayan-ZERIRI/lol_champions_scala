@@ -1,0 +1,375 @@
+{
+  "statistics" : {
+    "total_champions_parsed" : 12000,
+    "total_champions_valid" : 12000,
+    "parsing_errors" : 0,
+    "duplicates_removed" : 0
+  },
+  "champions_by_role" : {
+    "Jungle" : 2400,
+    "Top" : 2400,
+    "Support" : 2400,
+    "ADC" : 2400,
+    "Mid" : 2400
+  },
+  "champions_by_tier" : {
+    "A" : 1680,
+    "B" : 2520,
+    "C" : 2040,
+    "D" : 2520,
+    "S" : 3240
+  },
+  "champions_by_class" : {
+    "Tank" : 3360,
+    "Fighter" : 2040,
+    "Marksman" : 2400,
+    "Mage" : 2400,
+    "Assassin" : 1320,
+    "Support" : 480
+  },
+  "highest_win_rate" : [
+    {
+      "name" : "Cassiopeia Patch8",
+      "role" : "Mid",
+      "winRate" : 53.9,
+      "tier" : "S"
+    },
+    {
+      "name" : "Cassiopeia Patch86",
+      "role" : "Mid",
+      "winRate" : 53.9,
+      "tier" : "S"
+    },
+    {
+      "name" : "Cassiopeia Patch104",
+      "role" : "Mid",
+      "winRate" : 53.9,
+      "tier" : "S"
+    },
+    {
+      "name" : "Cassiopeia Patch62",
+      "role" : "Mid",
+      "winRate" : 53.9,
+      "tier" : "S"
+    },
+    {
+      "name" : "Cassiopeia Patch34",
+      "role" : "Mid",
+      "winRate" : 53.9,
+      "tier" : "S"
+    },
+    {
+      "name" : "Cassiopeia Patch103",
+      "role" : "Mid",
+      "winRate" : 53.9,
+      "tier" : "S"
+    },
+    {
+      "name" : "Cassiopeia Patch51",
+      "role" : "Mid",
+      "winRate" : 53.9,
+      "tier" : "S"
+    },
+    {
+      "name" : "Cassiopeia Patch92",
+      "role" : "Mid",
+      "winRate" : 53.9,
+      "tier" : "S"
+    },
+    {
+      "name" : "Cassiopeia Patch21",
+      "role" : "Mid",
+      "winRate" : 53.9,
+      "tier" : "S"
+    },
+    {
+      "name" : "Cassiopeia Patch60",
+      "role" : "Mid",
+      "winRate" : 53.9,
+      "tier" : "S"
+    }
+  ],
+  "most_picked" : [
+    {
+      "name" : "Annie Patch39",
+      "role" : "Mid",
+      "winRate" : 14.8,
+      "tier" : "A"
+    },
+    {
+      "name" : "Annie Patch27",
+      "role" : "Mid",
+      "winRate" : 14.8,
+      "tier" : "A"
+    },
+    {
+      "name" : "Annie Patch65",
+      "role" : "Mid",
+      "winRate" : 14.8,
+      "tier" : "A"
+    },
+    {
+      "name" : "Annie Patch109",
+      "role" : "Mid",
+      "winRate" : 14.8,
+      "tier" : "A"
+    },
+    {
+      "name" : "Annie Patch25",
+      "role" : "Mid",
+      "winRate" : 14.8,
+      "tier" : "A"
+    },
+    {
+      "name" : "Annie Patch108",
+      "role" : "Mid",
+      "winRate" : 14.8,
+      "tier" : "A"
+    },
+    {
+      "name" : "Annie Patch54",
+      "role" : "Mid",
+      "winRate" : 14.8,
+      "tier" : "A"
+    },
+    {
+      "name" : "Annie Patch69",
+      "role" : "Mid",
+      "winRate" : 14.8,
+      "tier" : "A"
+    },
+    {
+      "name" : "Annie Patch80",
+      "role" : "Mid",
+      "winRate" : 14.8,
+      "tier" : "A"
+    },
+    {
+      "name" : "Annie Patch26",
+      "role" : "Mid",
+      "winRate" : 14.8,
+      "tier" : "A"
+    }
+  ],
+  "most_banned" : [
+    {
+      "name" : "Diana Patch108",
+      "role" : "Jungle",
+      "winRate" : 44.9,
+      "tier" : "B"
+    },
+    {
+      "name" : "Diana Patch13",
+      "role" : "Jungle",
+      "winRate" : 44.9,
+      "tier" : "B"
+    },
+    {
+      "name" : "Diana Patch28",
+      "role" : "Jungle",
+      "winRate" : 44.9,
+      "tier" : "B"
+    },
+    {
+      "name" : "Diana Patch54",
+      "role" : "Jungle",
+      "winRate" : 44.9,
+      "tier" : "B"
+    },
+    {
+      "name" : "Diana Patch40",
+      "role" : "Jungle",
+      "winRate" : 44.9,
+      "tier" : "B"
+    },
+    {
+      "name" : "Diana Patch119",
+      "role" : "Jungle",
+      "winRate" : 44.9,
+      "tier" : "B"
+    },
+    {
+      "name" : "Diana Patch79",
+      "role" : "Jungle",
+      "winRate" : 44.9,
+      "tier" : "B"
+    },
+    {
+      "name" : "Diana Patch92",
+      "role" : "Jungle",
+      "winRate" : 44.9,
+      "tier" : "B"
+    },
+    {
+      "name" : "Veigar Patch19",
+      "role" : "Mid",
+      "winRate" : 44.9,
+      "tier" : "D"
+    },
+    {
+      "name" : "Diana Patch60",
+      "role" : "Jungle",
+      "winRate" : 44.9,
+      "tier" : "B"
+    }
+  ],
+  "best_kda" : [
+    {
+      "name" : "Leona Patch63",
+      "role" : "Support",
+      "winRate" : 47.7,
+      "tier" : "D",
+      "kda" : 5.818181818181818,
+      "kills" : 2.5,
+      "deaths" : 3.3,
+      "assists" : 16.7
+    },
+    {
+      "name" : "Leona Patch27",
+      "role" : "Support",
+      "winRate" : 47.7,
+      "tier" : "D",
+      "kda" : 5.818181818181818,
+      "kills" : 2.5,
+      "deaths" : 3.3,
+      "assists" : 16.7
+    },
+    {
+      "name" : "Leona Patch88",
+      "role" : "Support",
+      "winRate" : 47.7,
+      "tier" : "D",
+      "kda" : 5.818181818181818,
+      "kills" : 2.5,
+      "deaths" : 3.3,
+      "assists" : 16.7
+    },
+    {
+      "name" : "Leona Patch109",
+      "role" : "Support",
+      "winRate" : 47.7,
+      "tier" : "D",
+      "kda" : 5.818181818181818,
+      "kills" : 2.5,
+      "deaths" : 3.3,
+      "assists" : 16.7
+    },
+    {
+      "name" : "Leona Patch103",
+      "role" : "Support",
+      "winRate" : 47.7,
+      "tier" : "D",
+      "kda" : 5.818181818181818,
+      "kills" : 2.5,
+      "deaths" : 3.3,
+      "assists" : 16.7
+    },
+    {
+      "name" : "Leona Patch65",
+      "role" : "Support",
+      "winRate" : 47.7,
+      "tier" : "D",
+      "kda" : 5.818181818181818,
+      "kills" : 2.5,
+      "deaths" : 3.3,
+      "assists" : 16.7
+    },
+    {
+      "name" : "Leona Patch44",
+      "role" : "Support",
+      "winRate" : 47.7,
+      "tier" : "D",
+      "kda" : 5.818181818181818,
+      "kills" : 2.5,
+      "deaths" : 3.3,
+      "assists" : 16.7
+    },
+    {
+      "name" : "Leona Patch68",
+      "role" : "Support",
+      "winRate" : 47.7,
+      "tier" : "D",
+      "kda" : 5.818181818181818,
+      "kills" : 2.5,
+      "deaths" : 3.3,
+      "assists" : 16.7
+    },
+    {
+      "name" : "Leona Patch84",
+      "role" : "Support",
+      "winRate" : 47.7,
+      "tier" : "D",
+      "kda" : 5.818181818181818,
+      "kills" : 2.5,
+      "deaths" : 3.3,
+      "assists" : 16.7
+    },
+    {
+      "name" : "Leona Patch18",
+      "role" : "Support",
+      "winRate" : 47.7,
+      "tier" : "D",
+      "kda" : 5.818181818181818,
+      "kills" : 2.5,
+      "deaths" : 3.3,
+      "assists" : 16.7
+    }
+  ],
+  "average_win_rate_by_role" : {
+    "Jungle" : 50.884999999999266,
+    "Top" : 50.229999999999954,
+    "Support" : 50.04499999999919,
+    "ADC" : 49.920000000000186,
+    "Mid" : 50.414999999999395
+  },
+  "average_difficulty_by_role" : {
+    "Jungle" : 5.15,
+    "Top" : 6.05,
+    "Support" : 6.15,
+    "ADC" : 6.2,
+    "Mid" : 5.35
+  },
+  "most_popular_class" : "Tank",
+  "hardest_champions" : [
+    {
+      "name" : "Kalista",
+      "difficulty" : 10
+    },
+    {
+      "name" : "Janna Patch53",
+      "difficulty" : 10
+    },
+    {
+      "name" : "Janna Patch60",
+      "difficulty" : 10
+    },
+    {
+      "name" : "Fiora Patch73",
+      "difficulty" : 10
+    },
+    {
+      "name" : "Lulu Patch41",
+      "difficulty" : 10
+    },
+    {
+      "name" : "Rakan Patch20",
+      "difficulty" : 10
+    },
+    {
+      "name" : "Kalista Patch54",
+      "difficulty" : 10
+    },
+    {
+      "name" : "Aphelios Patch55",
+      "difficulty" : 10
+    },
+    {
+      "name" : "Rakan Patch40",
+      "difficulty" : 10
+    },
+    {
+      "name" : "Jinx Patch61",
+      "difficulty" : 10
+    }
+  ]
+}

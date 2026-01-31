@@ -1,0 +1,10 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 6 Scala sources to D:\I2\SCALA\lol_champions_scala\target\scala-3.3.7\classes ...
+[warn] there were 5 deprecation warnings; re-run with -deprecation for details
+[warn] one warning found
+[info] done compiling
+[debug] Forcing garbage collection...
+[success] Total time: 3 s, completed 30 janv. 2026, 23:49:27
+[debug] > Exec(idea-shell, None, None)
