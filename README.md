@@ -1,4 +1,4 @@
-# 🎮 League of Legends Champion Analytics
+# League of Legends Champion Analytics
 
 > Un système d'analyse de données avancé pour les champions de League of Legends, développé en Scala
 
